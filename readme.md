@@ -1,4 +1,6 @@
 - init: make the current folder a git repository
 - status: see the status of current repository
 - add: put files in the staging area
-
+- diff: look at differences between 2 commit states
+- log: look at the history
+- log --oneline: only get one line view
