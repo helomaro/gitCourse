@@ -8,3 +8,5 @@
 - checkout <hash><file>: restore a singe file from history
 - checkout <hash> : restore the entire folder
 - HEAD: where you are looking at in git history
+
+##Maybe here we'll add remote configs?
